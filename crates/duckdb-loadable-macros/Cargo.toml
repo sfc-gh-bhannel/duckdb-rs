@@ -6,7 +6,6 @@ license = { workspace = true }
 repository = { workspace = true }
 homepage = { workspace = true }
 keywords = { workspace = true }
-readme = { workspace = true }
 categories = ["external-ffi-bindings", "database"]
 description = "Native bindings to the libduckdb library, C API; build loadable extensions"
 edition = { workspace = true }

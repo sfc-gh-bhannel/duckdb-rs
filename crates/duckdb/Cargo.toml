@@ -5,7 +5,6 @@ authors = { workspace = true }
 repository = { workspace = true }
 homepage = { workspace = true }
 documentation = { workspace = true }
-readme = { workspace = true }
 keywords = { workspace = true }
 license = { workspace = true }
 categories = { workspace = true }
